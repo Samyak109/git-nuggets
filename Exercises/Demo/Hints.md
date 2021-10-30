@@ -1,0 +1,2 @@
+ - Try reading more about Branch from [OFFICIAL DOCUMENTATION](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+ - [Here](https://www.atlassian.com/git/tutorials/using-branches) is a nice article to visualize and understand branches
